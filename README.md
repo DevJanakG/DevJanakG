@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://janakg.epizy.com/](https://janakg.epizy.com/)
 
-- 📝 I regularly write articles on [https://punchnama.epizy.com/](https://punchnama.epizy.com/)
+- 📝 I regularly write articles on [https://punchnama.epizy.com/](https://punchnama.ml/)
 
 - 💬 Ask me about **HTML, CSS , JAVASCRIPT, PHP**
 
