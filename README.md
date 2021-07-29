@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **PWAS**
 
-- 👨‍💻 All of my projects are available at [https://janakg.epizy.com/](https://janakg.epizy.com/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://janakg.epizy.com/)
 
-- 📝 I regularly write articles on [https://punchnama.epizy.com/](https://punchnama.ml/)
+- 📝 I regularly write articles on [Punchnama](https://punchnama.ml/)
 
 - 💬 Ask me about **HTML, CSS , JAVASCRIPT, PHP**
 
