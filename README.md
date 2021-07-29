@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **janakgohildev@gmail.com**
 
-- ⚡ Fun fact **I am only 13 now**
+- ⚡ Fun fact **I am only 15 now**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
